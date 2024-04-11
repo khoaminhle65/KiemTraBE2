@@ -1,2 +1,6 @@
 Day la file test cua Branch_1
+<<<<<<< HEAD
 Thuoc nhanh branch KiemTra_1 ma thoi
+=======
+Thuoc branch nhanh branch_KiemTra va Main
+>>>>>>> main
